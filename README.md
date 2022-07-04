@@ -37,6 +37,7 @@
 
 | <a href="https://github.com/fernandopcabral"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=fernandopcabral&show_icons=true&theme=aura" /></a>| <a href="https://github.com/fernandopcabral/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandopcabral&layout=compact&theme=aura" /></a>|
 | ------------- | ------------- |
-
+<div align="center">
 | <a href="https://github.com/fernandopcabral"> <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=fernandopcabral&theme=tokyonight&hide_border=true" /></a>|
 | ------------- |
+</div>
