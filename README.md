@@ -13,3 +13,4 @@
 - Atualmente estudando Back-end 💻
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandopcabral&show_icons=true&theme=aura)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandopcabral&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
