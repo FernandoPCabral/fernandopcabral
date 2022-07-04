@@ -37,3 +37,6 @@
 
 | <a href="(https://github.com/fernandopcabral"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=fernandopcabral&show_icons=true&theme=aura" /></a>| <a href="https://github.com/fernandopcabral/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandopcabral&layout=compact&theme=aura" /></a>|
 | ------------- | ------------- |
+
+<a href="https://github.com/srtonn#gh-dark-mode-only" >
+      <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=fernandopcabral&theme=react#gh-dark-mode-only" />
