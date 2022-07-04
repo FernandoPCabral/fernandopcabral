@@ -39,5 +39,5 @@
 | ------------- | ------------- |
 <div align="center">
 | <a href="https://github.com/fernandopcabral"> <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=fernandopcabral&theme=tokyonight&hide_border=true" /></a>|
-| ------------- |
 </div>
+| ------------- |
