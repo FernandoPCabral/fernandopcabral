@@ -12,5 +12,10 @@
 - Estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/) 📚
 - Atualmente estudando Back-end 💻
 
+##
+## Skills e Habilidades
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+##
+
 | <a href="(https://github.com/fernandopcabral"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=fernandopcabral&show_icons=true&theme=aura" /></a>| <a href="https://github.com/fernandopcabral/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandopcabral&layout=compact&theme=aura" /></a>|
 | ------------- | ------------- |
