@@ -12,5 +12,4 @@
 - Estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/) 📚
 - Atualmente estudando Back-end 💻
 
-<a href="(https://github.com/fernandopcabral"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=fernandopcabral&show_icons=true&theme=aura" /></a>
-<a href="https://github.com/fernandopcabral/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandopcabral&layout=compact&theme=aura" /></a>
+| <a href="(https://github.com/fernandopcabral"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=fernandopcabral&show_icons=true&theme=aura" /></a>| <a href="https://github.com/fernandopcabral/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandopcabral&layout=compact&theme=aura" /></a>|
