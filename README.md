@@ -12,4 +12,4 @@
 - Estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/) 📚
 - Atualmente estudando Back-end 💻
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandopcabral&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandopcabral&show_icons=true&theme=aura)
