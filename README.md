@@ -44,9 +44,9 @@
 </div>
 
 ##
-
+<div align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=fernandopcabral&margin-w=15&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
-
+</div>
 ##
 ## Vamos Conversar???
 <div align=center>
