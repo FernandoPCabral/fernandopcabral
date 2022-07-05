@@ -44,7 +44,7 @@
 </div>
 
 ##
-(https://github-profile-trophy.vercel.app/?username=fernandopcabral&theme=algolia)
+[![trophy](https://github-profile-trophy.vercel.app/?username=fernandopcabral&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 ##
 ## Vamos Conversar???
