@@ -43,11 +43,12 @@
   <a href="https://github.com/fernandopcabral"> <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=fernandopcabral&theme=tokyonight&hide_border=true" /></a>
 </div>
 
-##
 <div align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=fernandopcabral&margin-w=15&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
 ##
+[![trophy](https://github-profile-trophy.vercel.app/?username=fernandopcabral&margin-w=15&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+##
+</div>
+
 ## Vamos Conversar???
 <div align=center>
   <br />
