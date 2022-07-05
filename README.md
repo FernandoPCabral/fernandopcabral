@@ -44,6 +44,9 @@
 </div>
 
 ##
+(https://github-profile-trophy.vercel.app/?username=fernandopcabral&theme=algolia)
+
+##
 ## Vamos Conversar???
 <div align=center>
   <br />
