@@ -35,6 +35,8 @@
 ![Styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ##
 
+##
+## Estatísticas 
 | <a href="https://github.com/fernandopcabral"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=fernandopcabral&show_icons=true&theme=aura" /></a>| <a href="https://github.com/fernandopcabral/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandopcabral&layout=compact&theme=aura" /></a>|
 | ------------- | ------------- |
 
