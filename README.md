@@ -3,7 +3,9 @@
 
 ##
 <p>
-  Sou Paulista 🏙️, tenho 27 anos, e sou apaixonado por tecnologia desde muito cedo 🧑‍💻. Atualmente estudo Programação e Desenvolvimento web na <a href="https://betrybe.com">Trybe</a>  na Turma XP, em parceria com a <a href="https://www.xpinc.com/">XP Inc.</a> 🚀
+  Sou Paulista 🏙️, tenho 27 anos, e sou apaixonado por tecnologia desde muito cedo 🧑‍💻. Atualmente estudo Programação e Desenvolvimento web na <a href="https://betrybe.com">Trybe</a>  na Turma XP, em parceria com a <a href="https://www.xpinc.com/">XP Inc.</a> 🚀.
+  
+  Neste perfil você irá encontrar meu repositório de exercícios e os repositórios dos projetos avaliativos realizados.
 </p>
 
 ##
