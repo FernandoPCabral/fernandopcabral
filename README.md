@@ -11,8 +11,8 @@
 ##
 - Formado em Relações Internacionais 🌎
 - Nerd, fã de Marvel e DC 🦸, Jogos 🎮 🎲, e cultura geek 🤓
-- Estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/) 📚
-- Atualmente estudando Back-end 💻
+- Formado Desenvolvimento Web na [Trybe](https://www.betrybe.com/) 📚
+- Desenvolvedor Full Stack 💻
 
 ##
 ## <h3 align="center">Skills e Habilidades</h3>
